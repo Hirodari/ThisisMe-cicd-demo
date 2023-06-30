@@ -14,5 +14,4 @@ phases:
 
   build:
     commands:
-      - git --version
       - ./apply-terraform.sh
